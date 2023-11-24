@@ -67,6 +67,11 @@
   }
 }
 
+.search-icon {
+  width: 16px;
+  height: 16px;
+}
+
 @media screen and (min-width: 768px) {
   .search-icon {
     width: 24px;
